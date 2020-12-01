@@ -1,4 +1,3 @@
-import os
 file = open("input","r")
 numbers=[]
 for line in file.readlines():
