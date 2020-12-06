@@ -5,3 +5,4 @@
 ## Day 3: PHP
 ## Day 4: Ruby
 ## Day 5: JavaScript
+## Day 6: Python
